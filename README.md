@@ -1,4 +1,4 @@
-### Movie-Mate
+### Movie-Mate - A Machine Learning-Based Movie Recommendation System
 
 **Description**
 MovieMate is a machine-learning-powered movie recommendation system that suggests movies based on user preferences. It utilizes content-based filtering to analyze movie descriptions and genres, helping users find movies similar to their interests. The project is built using Python and leverages Pandas for data manipulation, Scikit-learn (sklearn) for model implementation, and Pickle for model serialization.
